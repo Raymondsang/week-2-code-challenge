@@ -1,0 +1,13 @@
+buttonDelete();
+
+coolTitle {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blue;
+    
+}
+
+.done {
+    text-decoration: line-through;
+}
